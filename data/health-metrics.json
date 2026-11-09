@@ -1,0 +1,10 @@
+[
+  { "date": "2026-11-02", "type": "sleep", "hours": 7 },
+  { "date": "2026-11-03", "type": "sleep", "hours": 7.5 },
+  { "date": "2026-11-04", "type": "sleep", "hours": 8 },
+  { "date": "2026-11-04", "type": "nutrition", "proteinGrams": 105 },
+  { "date": "2026-11-05", "type": "sleep", "hours": 6.5 },
+  { "date": "2026-11-06", "type": "nutrition", "proteinGrams": 112 },
+  { "date": "2026-11-07", "type": "sleep", "hours": 8 },
+  { "date": "2026-11-08", "type": "sleep", "hours": 7.5 }
+]
